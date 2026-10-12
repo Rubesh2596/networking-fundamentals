@@ -1,0 +1,3 @@
+# FAQ
+
+Why networks matter?
