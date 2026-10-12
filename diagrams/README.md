@@ -1,6 +1,6 @@
 # Diagrams
 
-This folder contains Mermaid diagram source files for key networking concepts.
+This folder stores Mermaid and visual reference files that help explain concepts like OSI layers, DNS, routing, and packet flow.
 
 - [osi-model.mmd](osi-model.mmd)
 - [tcp-ip-model.mmd](tcp-ip-model.mmd)

@@ -1,21 +1,25 @@
 # networking-fundamentals
 
-A beginner-friendly repository for learning computer networking from zero to an intermediate level.
+A practical, beginner-friendly networking course designed for self-paced learning from zero to an intermediate level.
 
-## Audience
+## Who this repository is for
 
-- Students and self-learners
+- Students learning networking for the first time
 - Developers and DevOps engineers
 - Linux and Windows administrators
 - Cybersecurity learners
+- Anyone wanting a better mental model of how networks work
 
-## Goals
+## What you will learn
 
-- Understand how networks work in plain English
-- Learn the OSI and TCP/IP models
-- Practice IPv4, IPv6, subnetting, and routing
-- Work with troubleshooting, DNS, and security fundamentals
-- Complete safe hands-on labs
+- What a network is and why devices communicate
+- LAN, WAN, Wi-Fi, and Internet basics
+- OSI and TCP/IP models
+- IPv4, IPv6, CIDR, and subnetting
+- Ethernet, switching, ARP, and routing
+- TCP, UDP, DNS, DHCP, HTTP, HTTPS, TLS, SSH, and email protocols
+- Linux and Windows networking tools
+- Troubleshooting, security, Docker networking, and packet analysis
 
 ## Repository map
 
@@ -43,32 +47,31 @@ A beginner-friendly repository for learning computer networking from zero to an 
 - [21-quizzes/](21-quizzes/README.md)
 - [diagrams/](diagrams/README.md)
 
-## Suggested learning order
+## Suggested order
 
-1. Start with introduction and models
-2. Learn IP addressing and subnetting
-3. Study switching and routing
-4. Learn transport and application protocols
-5. Work through Linux, Windows, and troubleshooting
-6. Practice Docker and packet analysis
-7. Complete labs and interview questions
+1. Read the introductions and models.
+2. Learn IP addressing and subnetting.
+3. Move into switching, routing, and transport.
+4. Study application protocols and Internet-related topics.
+5. Use Linux and Windows tools and complete the labs.
+6. Finish with security, packet analysis, and interview practice.
+
+## Safety note
+
+Use only local or authorized test environments. Do not capture traffic or make configuration changes on networks you do not own or have permission to test.
 
 ## Progress checklist
 
-- [ ] Understand what a network is
+- [ ] Understand the basics of networking
 - [ ] Explain the OSI and TCP/IP models
-- [ ] Understand IPv4 and IPv6
+- [ ] Understand IPv4 and IPv6 addressing
 - [ ] Perform basic subnetting
 - [ ] Explain routing and switching
-- [ ] Describe TCP and UDP
-- [ ] Diagnose DNS and connectivity issues
-- [ ] Use Linux and Windows networking commands
-- [ ] Complete the practical labs
-- [ ] Understand basic DevOps networking and Docker
-
-## Safety notice
-
-Use only local or authorized test environments. Never capture or inspect traffic on networks you do not control or do not have permission to test.
+- [ ] Understand TCP and UDP
+- [ ] Diagnose DNS and connectivity problems
+- [ ] Use Linux and Windows networking tools
+- [ ] Complete the hands-on labs
+- [ ] Understand Docker and DevOps networking basics
 
 ## Contributing
 

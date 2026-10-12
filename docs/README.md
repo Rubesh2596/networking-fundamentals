@@ -1,6 +1,6 @@
 # Documentation
 
-This folder contains methods, safety guidance, and study notes.
+This folder contains guidance for study flow, safety, and efficient use of the repository.
 
 - [learning-method.md](learning-method.md)
 - [lab-safety.md](lab-safety.md)
